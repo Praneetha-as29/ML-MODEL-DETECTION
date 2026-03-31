@@ -1,0 +1,113 @@
+# 🚀 ML Model Detection
+
+Welcome to my **Machine Learning project repository**.  
+This repository contains detection-based projects built using **Computer Vision and Deep Learning techniques**.
+
+---
+
+## 🔗 Project Status
+
+👉 This project is actively being developed and improved.
+
+---
+
+## 📁 Projects Overview
+
+---
+
+### ✅ Number Plate Detection
+
+- 📄 **Description:**  
+  Detects vehicle number plates from images and videos using object detection techniques.  
+  Can be extended with OCR for full license plate recognition.
+
+- ⚙️ **Tech Used:**  
+  Python, OpenCV, YOLO / Deep Learning  
+
+- 📂 **File:**  
+  `Number_Plate.ipynb`
+
+---
+
+### ✅ Seatbelt Detection
+
+- 📄 **Description:**  
+  Classifies whether a person is wearing a seatbelt or not.  
+  Useful for smart traffic monitoring and safety systems.
+
+- ⚙️ **Tech Used:**  
+  Python, YOLO / CNN  
+
+- 📂 **File:**  
+  `Seatbelts_training.ipynb`
+
+---
+
+### 🧪 Experimental Notebook
+
+- 📄 **Description:**  
+  Used for testing models and experimentation  
+
+- 📂 **File:**  
+  `Untitled2.ipynb`
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python  
+- ☁️ Google Colab  
+- 👁️ OpenCV  
+- 🤖 TensorFlow / PyTorch  
+- 🎯 YOLO (Object Detection)  
+
+---
+
+## 📂 Repository Structure
+
+```
+ML-MODEL-DETECTION/
+├── Number_Plate.ipynb
+├── Seatbelts_training.ipynb
+├── Untitled2.ipynb
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+```
+git clone https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
+```
+
+2. Open notebooks in Google Colab or Jupyter  
+
+3. Install dependencies (if needed)  
+```
+pip install -r requirements.txt
+```
+
+4. Run all cells step-by-step  
+
+---
+
+## 📈 Future Improvements
+
+- 🚀 Real-time webcam detection  
+- 📊 Improve model accuracy  
+- 🌐 Deploy using Flask / FastAPI  
+- 🖥️ Build UI dashboard  
+
+---
+
+## 👩‍💻 Author
+
+**Praneetha Ayyana Somayajulu**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
