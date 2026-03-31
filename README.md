@@ -1,13 +1,41 @@
 # 🚀 ML Model Detection
 
-Welcome to my **Machine Learning project repository**.  
-This repository contains detection-based projects built using **Computer Vision and Deep Learning techniques**.
+<p align="center">
+  <b>Computer Vision Projects for Traffic Safety using Deep Learning</b><br>
+  🚗 Seatbelt Detection | 🔢 Number Plate Detection
+</p>
+
+---
+
+## 📌 Overview
+
+This repository contains Machine Learning and Computer Vision projects focused on **traffic safety applications**, developed using deep learning techniques.
+
+These projects were built and refined during my internship, with emphasis on **model training, evaluation, and real-world performance**.
+
+---
+
+## 💼 Internship Experience
+
+**ML Model Training Intern**  
+**PathVision Innovations Private Limited, Bengaluru**  
+📅 *May 2025 – July 2025*  
+
+### 🔧 Work Done
+
+- Worked with Python, Pandas, NumPy, Matplotlib, OpenCV, PyTorch, and YOLOv8  
+- Developed data augmentation techniques to improve model performance  
+- Evaluated models using Precision, Recall, mAP, and F1-score  
+- Performed hyperparameter tuning for better accuracy  
+- Fine-tuned YOLOv8 and other pre-trained models for object detection  
+- Worked on traffic-related use cases such as seatbelt detection and road safety  
+- Performed data preprocessing and cleaning for training datasets  
 
 ---
 
 ## 📦 Dataset
 
-Due to large file size, the datasets are hosted externally on Google Drive.
+Due to large file size, datasets are hosted externally:
 
 👉 **Seatbelt Dataset:**  
 [Download seatbelts.zip](PASTE_SEATBELTS_LINK_HERE)
@@ -15,59 +43,49 @@ Due to large file size, the datasets are hosted externally on Google Drive.
 👉 **Number Plate Dataset:**  
 [Download extract.zip](PASTE_EXTRACT_LINK_HERE)
 
-📌 Note: Download and extract the ZIP files before running the notebooks.
+📌 Download and extract the datasets before running the notebooks.
 
 ---
 
-## 📁 Projects Overview
-
----
-
-### ✅ Number Plate Detection
-
-- 📄 **Description:**  
-  Detects vehicle number plates from images and videos using object detection techniques.  
-  Can be extended with OCR for full license plate recognition.
-
-- ⚙️ **Tech Used:**  
-  Python, OpenCV, YOLO / Deep Learning  
-
-- 📂 **File:**  
-  `Number_Plate.ipynb`
+## 📁 Projects
 
 ---
 
 ### ✅ Seatbelt Detection
 
-- 📄 **Description:**  
-  Classifies whether a person is wearing a seatbelt or not.  
-  Useful for smart traffic monitoring and safety systems.
+- Detects whether a person is wearing a seatbelt  
+- Useful for traffic safety and monitoring systems  
+- Built using YOLOv8  
 
-- ⚙️ **Tech Used:**  
-  Python, YOLO / CNN  
-
-- 📂 **File:**  
-  `Seatbelts_training.ipynb`
+📂 File: `Seatbelts_training.ipynb`
 
 ---
 
-### 🧪 Experimental Notebook
+### ✅ Number Plate Detection
 
-- 📄 **Description:**  
-  Used for testing models and experimentation  
+- Detects vehicle number plates from images/videos  
+- Uses object detection techniques  
 
-- 📂 **File:**  
-  `Untitled2.ipynb`
+📂 File: `Number_Plate.ipynb`
+
+---
+
+### 🧪 Experimental Work
+
+- Used for testing and experimentation  
+
+📂 File: `Untitled2.ipynb`
 
 ---
 
 ## 🛠️ Tech Stack
 
 - 🐍 Python  
-- ☁️ Google Colab  
+- 📊 Pandas, NumPy, Matplotlib  
 - 👁️ OpenCV  
-- 🤖 TensorFlow / PyTorch  
-- 🎯 YOLO (Object Detection)  
+- 🤖 PyTorch  
+- 🎯 YOLOv8  
+- ☁️ Google Colab  
 
 ---
 
@@ -90,28 +108,39 @@ ML-MODEL-DETECTION/
 git clone https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
 ```
 
-2. Download dataset from above links  
+2. Download datasets from above links  
 
 3. Extract ZIP files  
 
-4. Open notebooks in Google Colab or Jupyter  
+4. Open notebooks in Google Colab / Jupyter  
 
 5. Run all cells step-by-step  
 
 ---
 
+## 📊 Model Evaluation
+
+Models are evaluated using:
+
+- Precision  
+- Recall  
+- mAP (Mean Average Precision)  
+- F1 Score  
+
+---
+
 ## 📈 Future Improvements
 
-- 🚀 Real-time webcam detection  
-- 📊 Improve model accuracy  
-- 🌐 Deploy using Flask / FastAPI  
-- 🖥️ Build UI dashboard  
+- Real-time webcam detection  
+- Improve model accuracy with more data  
+- Deploy using Flask / FastAPI  
+- Build simple UI for interaction  
 
 ---
 
 ## 👩‍💻 Author
 
-**Praneetha Ayyana Somayajulu**
+**Praneetha Ayyana Somayajulu**  
 
 ---
 
