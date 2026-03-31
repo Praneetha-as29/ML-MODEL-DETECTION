@@ -1,7 +1,7 @@
 # 🚀 ML Model Detection
 
 <p align="center">
-  <b>Computer Vision Projects for Traffic Safety using Deep Learning</b><br>
+  <b>Computer Vision Projects for Traffic Safety using Machine Learning Models</b><br>
   🚗 Seatbelt Detection | 🔢 Number Plate Detection
 </p>
 
