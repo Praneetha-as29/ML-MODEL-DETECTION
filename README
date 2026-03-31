@@ -1,7 +1,98 @@
-echo "# ML-MODEL-DETECTION" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
-git push -u origin main
+# 🚀 ML Model Detection
+
+A collection of machine learning projects focused on real-world detection tasks using computer vision and deep learning.
+
+---
+
+## 📌 Overview
+
+This repository contains multiple ML-based detection models developed using Python and Google Colab. These projects demonstrate practical applications like:
+
+- 🚗 Number Plate Detection  
+- 🚘 Seatbelt Detection  
+- 📊 Experimental ML models  
+
+---
+
+## 🧠 Projects Included
+
+### 🔢 Number Plate Detection
+- Detects vehicle number plates from images/videos  
+- Uses object detection techniques  
+- Can be extended for OCR-based recognition  
+
+### 🪑 Seatbelt Detection
+- Classifies whether a person is wearing a seatbelt or not  
+- Built using deep learning models (YOLO / CNN-based)  
+- Useful for traffic safety monitoring systems  
+
+### 📁 Other Notebooks
+- `Untitled2.ipynb` – Experimental / testing notebook  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- Google Colab ☁️  
+- OpenCV  
+- TensorFlow / PyTorch  
+- YOLO (Object Detection)  
+
+---
+
+## 📂 Repository Structure
+
+```
+ML-MODEL-DETECTION/
+│── Number_Plate.ipynb
+│── Seatbelts_training.ipynb
+│── Untitled2.ipynb
+│── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+```
+git clone https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
+```
+
+2. Open notebooks in Google Colab or Jupyter Notebook  
+
+3. Install dependencies (if required)  
+```
+pip install -r requirements.txt
+```
+
+4. Run all cells step-by-step  
+
+---
+
+## 📈 Future Improvements
+
+- Add real-time detection using webcam 🎥  
+- Improve model accuracy 📊  
+- Deploy using Flask / FastAPI 🌐  
+- Build a user interface  
+
+---
+
+## 🙌 Author
+
+**Praneetha Ayyana Somayajulu**  
+Information Security & Machine Learning Enthusiast  
+
+---
+
+## ⭐ Contribute
+
+Feel free to fork this repository, open issues, or submit pull requests.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
