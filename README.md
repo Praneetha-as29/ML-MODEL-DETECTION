@@ -5,9 +5,17 @@ This repository contains detection-based projects built using **Computer Vision 
 
 ---
 
-## 🔗 Project Status
+## 📦 Dataset
 
-👉 This project is actively being developed and improved.
+Due to large file size, the datasets are hosted externally on Google Drive.
+
+👉 **Seatbelt Dataset:**  
+[Download seatbelts.zip](PASTE_SEATBELTS_LINK_HERE)
+
+👉 **Number Plate Dataset:**  
+[Download extract.zip](PASTE_EXTRACT_LINK_HERE)
+
+📌 Note: Download and extract the ZIP files before running the notebooks.
 
 ---
 
@@ -82,14 +90,13 @@ ML-MODEL-DETECTION/
 git clone https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
 ```
 
-2. Open notebooks in Google Colab or Jupyter  
+2. Download dataset from above links  
 
-3. Install dependencies (if needed)  
-```
-pip install -r requirements.txt
-```
+3. Extract ZIP files  
 
-4. Run all cells step-by-step  
+4. Open notebooks in Google Colab or Jupyter  
+
+5. Run all cells step-by-step  
 
 ---
 
