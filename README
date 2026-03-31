@@ -1,64 +1,56 @@
 # 🚀 ML Model Detection
 
-<p align="center">
-  <b>Real-world Machine Learning & Computer Vision Projects</b><br>
-  Detection Systems for Traffic Safety & Automation 🚗
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Framework-Deep%20Learning-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
-</p>
+Welcome to my **Machine Learning project repository**!  
+This repo contains detection-based projects built using **Computer Vision and Deep Learning**, focused on solving real-world problems.
 
 ---
 
-## 📌 Overview
+## 🔗 Live Project / Demo
 
-This repository contains multiple **Machine Learning-based detection models** built using Python and Google Colab.  
-It focuses on solving **real-world problems** using computer vision techniques.
-
-✨ Includes:
-- 🚗 Number Plate Detection  
-- 🚘 Seatbelt Detection  
-- 📊 Experimental ML models  
+*(Add your demo link here if available)*  
+👉 Coming Soon...
 
 ---
 
-## 🧠 Projects Included
-
-### 🚗 Number Plate Detection
-- Detects vehicle number plates from images/videos  
-- Uses object detection techniques  
-- Can be extended for OCR-based recognition  
+## 📁 Projects Overview
 
 ---
 
-### 🪑 Seatbelt Detection
-- Classifies whether a person is wearing a seatbelt or not  
-- Built using deep learning models (YOLO / CNN-based)  
-- Useful for traffic safety monitoring systems  
+### ✅ Number Plate Detection
+
+- 📄 **Description:** Detects vehicle number plates from images and videos using object detection techniques. Can be extended with OCR for full license plate recognition.
+
+- ⚙️ **Tech Used:** Python, OpenCV, YOLO / Deep Learning  
+
+- 📂 **File:** `Number_Plate.ipynb`
+
+---
+
+### ✅ Seatbelt Detection
+
+- 📄 **Description:** Classifies whether a person is wearing a seatbelt or not. Useful for smart traffic monitoring and safety systems.
+
+- ⚙️ **Tech Used:** Python, YOLO / CNN  
+
+- 📂 **File:** `Seatbelts_training.ipynb`
 
 ---
 
 ### 🧪 Experimental Notebook
-- `Untitled2.ipynb` – Used for testing and experimentation  
+
+- 📄 **Description:** Used for testing models and experimentation  
+
+- 📂 **File:** `Untitled2.ipynb`
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
-| 💻 Category | 🚀 Tools |
-|------------|--------|
-| Language | Python 🐍 |
-| Environment | Google Colab ☁️ |
-| Libraries | OpenCV, NumPy |
-| Frameworks | TensorFlow / PyTorch |
-| Models | YOLO |
-
-</p>
+- 🐍 Python  
+- ☁️ Google Colab  
+- 👁️ OpenCV  
+- 🤖 TensorFlow / PyTorch  
+- 🎯 YOLO (Object Detection)  
 
 ---
 
@@ -66,59 +58,47 @@ It focuses on solving **real-world problems** using computer vision techniques.
 
 ```
 ML-MODEL-DETECTION/
-├── Number_Plate.ipynb
-├── Seatbelts_training.ipynb
-├── Untitled2.ipynb
-└── README.md
+│── Number_Plate.ipynb
+│── Seatbelts_training.ipynb
+│── Untitled2.ipynb
+│── README.md
 ```
 
 ---
 
 ## ▶️ How to Run
 
-### 1️⃣ Clone the Repository
+- Clone the repository  
 ```
 git clone https://github.com/Praneetha-as29/ML-MODEL-DETECTION.git
 ```
 
-### 2️⃣ Open in Colab / Jupyter
-Upload the notebooks or open directly in Google Colab  
+- Open notebooks in Google Colab or Jupyter  
 
-### 3️⃣ Install Dependencies (if required)
+- Install dependencies (if needed)  
 ```
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the Project
-Execute all cells step-by-step  
+- Run all cells step-by-step  
 
 ---
 
 ## 📈 Future Improvements
 
-🚀 Real-time detection using webcam  
-📊 Improve model accuracy  
-🌐 Deploy using Flask / FastAPI  
-🖥️ Build interactive UI  
+- 🚀 Real-time webcam detection  
+- 📊 Improve model accuracy  
+- 🌐 Deploy using Flask / FastAPI  
+- 🖥️ Build UI dashboard  
 
 ---
 
 ## 👩‍💻 Author
 
-<p align="center">
-  <b>Praneetha Ayyana Somayajulu</b><br>
-  Information Security Intern | ML Enthusiast 💡
-</p>
+**Praneetha Ayyana Somayajulu**  
 
 ---
 
-## ⭐ Contribute
+## ⭐ Support
 
-Contributions are welcome!  
-Feel free to fork, improve, and submit pull requests.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+If you like this project, give it a ⭐ on GitHub!
